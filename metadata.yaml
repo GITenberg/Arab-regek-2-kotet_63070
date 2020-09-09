@@ -1,0 +1,36 @@
+_repo: Arab-regek-2-kotet_63070
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Vörösmarty, Mihály
+    aliases:
+    - Vörösmarti, Mihály
+    - Vorosmarti, Mihaly
+    - Vorosmarty, Mihaly
+    - Vorosmarthy, Michael
+    birthdate: 1800
+    deathdate: 1855
+    gutenberg_agent_id: '52265'
+    url: http://www.gutenberg.org/2009/agents/52265
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Mih%C3%A1ly_V%C3%B6r%C3%B6smarty
+    - https://hu.wikipedia.org/wiki/V%C3%B6r%C3%B6smarty_Mih%C3%A1ly
+description: ''
+gutenberg_issued: '2020-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63070'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PJ'
+- !lcsh 'Folk literature'
+- !lcsh 'Tales'
+- GITenberg
+tableOfContents: A fölébredt való története -- Ganemnek, Abu Aibu fiának története
+  -- Harun Arresyd chalyf kalandjai -- Aly Baba s a negyven haramia története -- A
+  varázs-ló -- Aladdin, vagy a csodalámpa története.
+title: Arab regék (2. kötet)
+url: http://www.gutenberg.org/ebooks/63070
